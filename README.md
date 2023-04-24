@@ -13,3 +13,14 @@ Finally, this repository serves as a means to showcase my data skills, and a pla
 # Projects
 ## Project 1: Explore a Dataset on Energy Usage and Draw Your First Conclusions
 
+
+
+## Project 2: Create a Dashboard Meeting Business Requirements
+
+
+
+## Project 3: Assess the Quality of a Dataset for a Public Service Agency
+
+
+
+## Project 4: Retrieve User Activity Data on an Online Forum Using SQL
