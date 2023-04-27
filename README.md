@@ -28,7 +28,13 @@ The project includes the following steps: data loading; data cleaning, sorting a
 
 ## Project 2: Create a Dashboard Meeting Business Requirements
 
+**Tableau Public:**
 
+**Description:** In this project,
+
+**Skills:** Requirements capture and analysis, Design implementation, Interactive dashboard creation
+
+**Technology/Tools:** Tableau
 
 ## Project 3: Assess the Quality of a Dataset for a Public Service Agency
 
