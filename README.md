@@ -11,7 +11,7 @@ In subsequent sections, I will provide a brief description and summary of my pro
 Finally, this repository serves as a means to showcase my data skills, and a platform to share my projects and track my progress in data analytics.
 
 # Projects
-## Project 1: Explore a Dataset on Energy Usage and Draw Your First Conclusion
+## Project 1: Explore a Dataset on Energy Usage and Draw Your First Conclusions
 
 
 
