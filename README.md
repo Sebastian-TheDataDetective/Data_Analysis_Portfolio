@@ -22,6 +22,7 @@ iii). How do factors like weather and holidays affect demand? - To understand ho
 The project includes the following steps: data loading; data cleaning, sorting and formatting, data visualization
 
 **Skills:** Data cleaning and Data exploration (analysis and visualization)
+
 **Technology/Tools:** Microsoft Excel, Google Sheets
 
 
