@@ -29,6 +29,7 @@ The project includes the following steps: data loading; data cleaning, sorting a
 ## Project 2: Create a Dashboard Meeting Business Requirements
 
 **Tableau Public Dashboard:**
+
 **Tableau Public Data Story:**
 
 **Description:** In this project,
