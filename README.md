@@ -55,7 +55,7 @@ deliverables are below the target).
 
 ## Project 3: Assess the Quality of a Dataset for a Public Service Agency
 
-**Code:** [Camden_Tree_Data Quality Report_Project 3.ipynb]
+**Code:** [Camden_Tree_Data Quality Report_Project 3.md](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11602583/Camden_Tree_Data.Quality.Report_Project.3.md)
 
 **Presentation:** [Project 3_presentation_032023.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11602247/Project.3_presentation_032023.pdf)
 
