@@ -61,9 +61,9 @@ deliverables are below the target).
 
 
 
-**Skills:** Requirement gathering and analysis; Qualitative and quantitative data interpretation; and Data visualization
+**Skills:** Python coding; Requirement gathering and analysis; Data exploration; Data visualization; Detecting data anomalies and dealing with outliers  
 
-**Technology/Tools:** Python, Jupyter notebook
+**Technology/Tools:** Python, Pandas, Numpy, Matplotlib, Seaborn 
 
 
 ## Project 4: Retrieve User Activity Data on an Online Forum Using SQL
