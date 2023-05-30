@@ -32,7 +32,13 @@ The project includes the following steps: data loading; data cleaning, sorting a
 
 **Tableau Public Data Story:**
 
-**Description:** In this project, a dashboard was created to meet business requirements by applying requirement gathering and capture to implement the expected dashoard design. The project was aimed at standardizing the monitoring of various projects within a pharmaceutical company (Dental Pharma). As such, the goal was to use data visualization to keep track of how projects (IT & Marketing) are doing, to measure current and future project performance. in addition, the dashboard
+**Description:** In this project, a dashboard was created to meet business requirements by applying requirement gathering and capture to implement the expected dashoard design. The project was aimed at standardizing the monitoring of various projects within a pharmaceutical company (Dental Pharma). As such, the goal was to use data visualization to keep track of how projects (IT & Marketing) are doing, to measure current and future project performance. In addition, the dashboard will help make strategic project data visually accessible to stakeholders (each with restricted access) which includes the General Manager (se all projects), Regional Manager (see projects in their region), and Country manage (view indicators of projects in their country). The key dashboard requirements were: 
+
+**1. Projects:** Show which projects are running/have run in which countries (i.e. map showing the countries that Dental Pharma operates in; table of the projects, showing the region, country, country type, project type, phase, date,     planned and actual cost, planned and actual duration).
+**2. Countries Over Cost:** Identify countries with a 15% difference between actual costs versus target cost. This difference should be adjustable by the user (i.e. chart showing countries where the cost has overrun)
+**3. Countries Over Duration:** Identify countries with a 15% difference between actual duration versus target duration. This difference should be adjustable by the user (i.e. chart showing countries where the duration has overrun).
+**4. Countries Under Delivering:** Identify countries with a 15% difference between actual deliverable versus target deliverable. This difference should be adjustable by the user (i.e. chart showing countries under-delivering - where the
+deliverables are below the target).
 
 **Skills:** Requirements gathering, capture and analysis; Design implementation; Interactive dashboard creation; Qualitative and quantitative data interpretation; and Data visualization
 
