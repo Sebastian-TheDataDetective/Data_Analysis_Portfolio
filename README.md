@@ -75,7 +75,7 @@ The aim of this project was to evalaute the datasets and determine the extent to
 
 ## Project 4: Retrieve User Activity Data on an Online Forum Using SQL
 
-**Code:**
+**Code:** [chat_data_student_Project 4.md](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11604274/chat_data_student_Project.4.md)
 
 **Presentation:**
 
