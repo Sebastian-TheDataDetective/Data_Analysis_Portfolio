@@ -47,7 +47,7 @@ The project includes the following steps: data loading; data cleaning, sorting a
 **4. Countries Under Delivering:** Identify countries with a 15% difference between actual deliverable versus target deliverable. This difference should be adjustable by the user (i.e. chart showing countries under-delivering - where the
 deliverables are below the target).
 
-**Skills:** Requirements gathering, capture and analysis; Design implementation; Interactive dashboard creation; Qualitative and quantitative data interpretation; and Data visualization
+**Skills:** Business requirements gathering, capture and analysis; Design implementation; Interactive dashboard design; User Experience (UX) Design; Qualitative and quantitative data interpretation; Data Transformation and Calculation; Data Integration; Data visualization; and Data Storytelling
 
 **Technology/Tools:** Tableau
 
@@ -68,7 +68,7 @@ deliverables are below the target).
 
 The aim of this project was to evalaute the datasets and determine the extent to which it is possible to use the datasets to deliver the three proposed projects. The assessment of data quality was carried out using various functions {e.g. .head(); .shape(); .column(); .dtype(); .value_counts(); .describe(); .unique(); .isnull(); .isin(), etc.} in python. 
 
-**Skills:** Python coding; Requirement gathering and analysis; Data exploration and inspection; Data visualization; Detecting data anomalies and dealing with outliers (i.e. data validation and reliability checks)  
+**Skills:** Python programming; Requirement gathering and analysis; Exploratory data analysis (EDA); Data visualization; Detecting data anomalies and dealing with outliers (i.e. data validation and reliability checks); and Data profiling  
 
 **Technology/Tools:** Python, Pandas, Numpy, Matplotlib, Seaborn 
 
@@ -81,6 +81,6 @@ The aim of this project was to evalaute the datasets and determine the extent to
 
 **Description:** In this project, 
 
-**Skills:** SQL queries; Python coding; Requirement gathering and analysis; Data exploration; Data validation and reliability checks  
+**Skills:** SQL; Python programming; Requirement gathering and analysis; Data retrieval and analysis; Query optimization; Database management; Data exploration; Data validation; Data Privacy and Security  
 
 **Technology/Tools:** SQLite, Python, Pandas, Numpy 
