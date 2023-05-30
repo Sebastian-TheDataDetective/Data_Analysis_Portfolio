@@ -8,7 +8,7 @@ I have a technical/research background and hold a PhD in Petroleum Geoscience fr
 
 In subsequent sections, I will provide a brief description and summary of my projects. The projects will demonstrate the following skills: cleaning and preparing data for analysis, analysing data to identify trends, querying a relational database with SQL and creating data visualisation and dashboards. These projects were carried out using the following tools: EXCEL, TABLEAU, PYTHON, SQLite.
 
-Finally, this repository serves as a means to showcase my data skills, and a platform to share my projects and track my progress in data analytics.
+Finally, this repository serves as a means to showcase my data skills, and a platform to share my projects and track my progress in data analysis.
 
 # Projects
 ## Project 1: Explore a Dataset on Energy Usage and Draw Conclusions
@@ -25,7 +25,7 @@ iii). How do factors like weather and holidays affect demand? - To understand ho
 
 The project includes the following steps: data loading; data cleaning, sorting and formatting, data visualization
 
-**Skills:** Data cleaning and Preprocessing; Data analysis; Data visualization; Pivot tables; Formulas and Functions, Data Validation
+**Skills:** Data cleaning and preprocessing; Data analysis; Data visualization; Pivot tables; Formulas and functions, Data validation
 
 **Technology/Tools:** Microsoft Excel, Google Sheets
 
@@ -36,7 +36,7 @@ The project includes the following steps: data loading; data cleaning, sorting a
 
 **Tableau Public Data Story:** https://public.tableau.com/views/Project2_DentalPharma_Corrected/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
 
-**Description:** In this project, a dashboard was created to meet business requirements by applying requirement gathering and capture to implement the expected dashoard design. The project was aimed at standardizing the monitoring of various projects within a pharmaceutical company (**Dental Pharma**). As such, the goal was to use data visualization to keep track of how projects (IT & Marketing) are doing, to measure current and future project performance. In addition, the dashboard will help make strategic project data visually accessible to stakeholders (each with restricted access) which includes the General Manager (see all projects), Regional Manager (see projects in their region), and Country manage (view indicators of projects in their country). The key dashboard requirements were: 
+**Description:** In this project, a dashboard was created to meet business requirements by applying requirement gathering and capture to implement the expected dashboard design. The project was aimed at standardizing the monitoring of various projects within a pharmaceutical company (**Dental Pharma**). As such, the goal was to use data visualization to keep track of how projects (IT & Marketing) are doing, to measure current and future project performance. In addition, the dashboard will help make strategic project data visually accessible to stakeholders (each with restricted access) which includes the General Manager (see all projects), Regional Manager (see projects in their region), and Country Manager (view indicators of projects in their country). The key dashboard requirements were: 
 
 **1. Projects:** Show which projects are running/have run in which countries (i.e. map showing the countries that Dental Pharma operates in; table of the projects, showing the region, country, country type, project type, phase, date,     planned and actual cost, planned and actual duration).
 
@@ -47,7 +47,7 @@ The project includes the following steps: data loading; data cleaning, sorting a
 **4. Countries Under Delivering:** Identify countries with a 15% difference between actual deliverable versus target deliverable. This difference should be adjustable by the user (i.e. chart showing countries under-delivering - where the
 deliverables are below the target).
 
-**Skills:** Business requirements gathering, capture and analysis; Design implementation; Interactive dashboard design; User Experience (UX) Design; Qualitative and quantitative data interpretation; Data Transformation and Calculation; Data Integration; Data visualization; and Data Storytelling
+**Skills:** Business requirements gathering, capture and analysis; Design implementation; Interactive dashboard design; User experience (UX) design; Qualitative and quantitative data interpretation; Data transformation and calculation; Data integration; Data visualization; and Data storytelling
 
 **Technology/Tools:** Tableau
 
@@ -81,11 +81,11 @@ The aim of this project was to evalaute the datasets and determine the extent to
 
 **Presentation:**  [Project 4_ presentation_2023.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11604417/Project.4_.presentation_2023.pdf)
 
-**Description:** In this project, SQL was used to query user activity (interaction) data from an online forum (**ChatData**) to learn how their websites is being used in the real world, to understand which features are useful to the users and what additional features might be worth introducing at a later time. This was accomplished using three separate CSV files consisting of user activity data: posts, comments and users.
+**Description:** In this project, SQL was used to query user activity (interaction) data from an online forum (**ChatData**) to learn how their website is being used in the real world, to understand which features are useful to the users and what additional features might be worth introducing at a later time. This was accomplished using three separate CSV files consisting of user activity data: posts, comments and users.
 
 SQL queries were executed on the available data to provide answers to the business questions raised by the Social Media Manager by creating single-table and cross-table queries to analyze user engagements. The following steps were taken:
 
-   **1.)** Create an entity relationship diagram (ERD)
+   **1.** Create an entity relationship diagram (ERD)
 
    **2.** Create database (SQLite database) and add data
 
@@ -93,6 +93,6 @@ SQL queries were executed on the available data to provide answers to the busine
 
    **4.** Create cross-table queries to further analyze engagement (e.g. Considering only the users with an "AboutMe," how many posts are there per user?; Who are the top 10 users who comment the most?)
 
-**Skills:** SQL; Python programming; Requirement gathering and analysis; Data retrieval and analysis; Query optimization; Database management; Data exploration; Data validation; Data Privacy and Security  
+**Skills:** SQL; Python programming; Requirement gathering and analysis; Data retrieval and analysis; Query optimization; Database management; Data exploration; Data validation; Data privacy and security  
 
 **Technology/Tools:** SQLite, Python, Pandas, Numpy  
