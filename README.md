@@ -32,9 +32,9 @@ The project includes the following steps: data loading; data cleaning, sorting a
 
 **Tableau Public Data Story:**
 
-**Description:** In this project,
+**Description:** In this project, a dashboard was created to meet business requirements by applying requirement gathering and capture to implement the expected dashoard design. The project was aimed at standardizing the monitoring of various projects within a pharmaceutical company (Dental Pharma). As such, the goal was to use data visualization to keep track of how projects (IT & Marketing) are doing, to measure current and future project performance. in addition, the dashboard
 
-**Skills:** Requirements gathering, capture and analysis; Design implementation; and Interactive dashboard creation
+**Skills:** Requirements gathering, capture and analysis; Design implementation; Interactive dashboard creation; Qualitative and quantitative data interpretation; and Data visualization
 
 **Technology/Tools:** Tableau
 
