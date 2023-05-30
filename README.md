@@ -15,7 +15,7 @@ Finally, this repository serves as a means to showcase my data skills, and a pla
 
 **Worksheet:** [AusEnergy Demand Analysis.xlsx](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11343021/AusEnergy.Demand.Analysis.xlsx)
 
-**Description:** In this project, dataset from a domestic and industrial energy supplier was analyzed to understand how to efficiently manage supply of electricity. In other toachieve the above, some important questions were raised based on the available data, to guide my analaysis. These questions include:
+**Description:** In this project, dataset from a domestic and industrial energy supplier was analyzed to understand how to efficiently manage supply of electricity. In other to achieve the above, some important questions were raised based on the available data, to guide my analaysis. These questions include:
 
 i). What does demand look like over time? - To show and understand how demand varies over time (day of week/month/year). 
 
