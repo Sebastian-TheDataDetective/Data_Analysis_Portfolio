@@ -59,9 +59,10 @@ deliverables are below the target).
 
 **Presentation:**
 
-**Data source list:**
+**Data source list:**[Data_Source_List.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11602201/Data_Source_List.pdf)
 
-**Data requirements:**
+**Data requirements:** [Data_Requirements_Template.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11602197/Data_Requirements_Template.pdf)
+
 
 **Description:** In this project, the quality of three datasets {Trees Data (excel), Common Names Data (.json), and Environmental Data (.csv)} required by a public service agency (Camden Council) was assessed to ascertain if the datasets contain the required data and information needed by the council to strategically deliver its planned projects (i.e. Public Tree Data, Tree Walk Brochure, and Environmental Report). 
 
