@@ -83,7 +83,15 @@ The aim of this project was to evalaute the datasets and determine the extent to
 
 **Description:** In this project, SQL was used to query user activity (interaction) data from an online forum (**ChatData**) to learn how their websites is being used in the real world, to understand which features are useful to the users and what additional features might be worth introducing at a later time. This was accomplished using three separate CSV files consisting of user activity data: posts, comments and users.
 
-SQL queries were executed on the available data to provide answers to the business questions raised by the Social Media Manager by creating
+SQL queries were executed on the available data to provide answers to the business questions raised by the Social Media Manager by creating single-table and cross-table queries to analyze user engagements. The following seps were taken:
+
+   **1.** Create an entity relationship diagram (ERD)
+
+   **2.** Create database (SQLite database) and add data
+
+   **3.** Create single-table queries to analyze engagement (e.g. Find the 5 posts with the highest viewcount; What are the top 5 locations of users?; How many posts have 2 comments or more?)
+
+   **4.** Create cross-table queries to further analyze engagement (e.g. Considering only the users with an "AboutMe," how many posts are there per user?; Who are the top 10 users who comment the most?)
 
 **Skills:** SQL; Python programming; Requirement gathering and analysis; Data retrieval and analysis; Query optimization; Database management; Data exploration; Data validation; Data Privacy and Security  
 
