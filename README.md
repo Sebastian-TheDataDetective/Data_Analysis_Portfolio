@@ -61,7 +61,7 @@ deliverables are below the target).
 
 
 
-**Skills:** Python coding; Requirement gathering and analysis; Data exploration; Data visualization; Detecting data anomalies and dealing with outliers  
+**Skills:** Python coding; Requirement gathering and analysis; Data exploration and inspection; Data visualization; Detecting data anomalies and dealing with outliers  
 
 **Technology/Tools:** Python, Pandas, Numpy, Matplotlib, Seaborn 
 
