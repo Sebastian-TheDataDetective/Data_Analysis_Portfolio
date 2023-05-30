@@ -55,6 +55,15 @@ deliverables are below the target).
 
 ## Project 3: Assess the Quality of a Dataset for a Public Service Agency
 
+**Code:**
+
+**Description:** In this project, 
+
+
+
+**Skills:** Requirement gathering and analysis; Qualitative and quantitative data interpretation; and Data visualization
+
+**Technology/Tools:** Python, Jupyter notebook
 
 
 ## Project 4: Retrieve User Activity Data on an Online Forum Using SQL
