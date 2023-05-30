@@ -83,9 +83,9 @@ The aim of this project was to evalaute the datasets and determine the extent to
 
 **Description:** In this project, SQL was used to query user activity (interaction) data from an online forum (**ChatData**) to learn how their websites is being used in the real world, to understand which features are useful to the users and what additional features might be worth introducing at a later time. This was accomplished using three separate CSV files consisting of user activity data: posts, comments and users.
 
-SQL queries were executed on the available data to provide answers to the business questions raised by the Social Media Manager by creating single-table and cross-table queries to analyze user engagements. The following seps were taken:
+SQL queries were executed on the available data to provide answers to the business questions raised by the Social Media Manager by creating single-table and cross-table queries to analyze user engagements. The following steps were taken:
 
-   **1.** Create an entity relationship diagram (ERD)
+   **1.)** Create an entity relationship diagram (ERD)
 
    **2.** Create database (SQLite database) and add data
 
