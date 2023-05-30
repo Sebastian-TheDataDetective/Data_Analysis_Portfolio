@@ -70,7 +70,7 @@ The aim of this project was to evalaute the datasets and determine the extent to
 
 **Skills:** Python programming; Requirement gathering and analysis; Exploratory data analysis (EDA); Data visualization; Detecting data anomalies and dealing with outliers (i.e. data validation and reliability checks); and Data profiling  
 
-**Technology/Tools:** Python, Pandas, Numpy, Matplotlib, Seaborn 
+**Technology/Tools:** Python, Pandas, Numpy, Matplotlib, Seaborn
 
 
 ## Project 4: Retrieve User Activity Data on an Online Forum Using SQL
@@ -85,4 +85,4 @@ The aim of this project was to evalaute the datasets and determine the extent to
 
 **Skills:** SQL; Python programming; Requirement gathering and analysis; Data retrieval and analysis; Query optimization; Database management; Data exploration; Data validation; Data Privacy and Security  
 
-**Technology/Tools:** SQLite, Python, Pandas, Numpy 
+**Technology/Tools:** SQLite, Python, Pandas, Numpy  
