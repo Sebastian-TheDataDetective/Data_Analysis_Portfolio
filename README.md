@@ -55,11 +55,11 @@ deliverables are below the target).
 
 ## Project 3: Assess the Quality of a Dataset for a Public Service Agency
 
-**Code:**
+**Code:**  
 
-**Presentation:**
+**Presentation:** [Project 3_presentation_032023.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11602247/Project.3_presentation_032023.pdf)
 
-**Data source list:**[Data_Source_List.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11602201/Data_Source_List.pdf)
+**Data source list:**  [Data_Source_List.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11602201/Data_Source_List.pdf)
 
 **Data requirements:** [Data_Requirements_Template.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11602197/Data_Requirements_Template.pdf)
 
