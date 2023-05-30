@@ -57,7 +57,7 @@ deliverables are below the target).
 
 **Code:**
 
-**Presentaion:**
+**Presentation:**
 
 **Description:** In this project, 
 
