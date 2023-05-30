@@ -15,7 +15,7 @@ Finally, this repository serves as a means to showcase my data skills, and a pla
 
 **Worksheet:** [AusEnergy Demand Analysis.xlsx](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11343021/AusEnergy.Demand.Analysis.xlsx)
 
-**Description:** In this project, dataset from a domestic and industrial energy supplier was analyzed to understand how to efficiently manage supply of electricity. In other to achieve the above, some important questions were raised based on the available data, to guide my analaysis. These questions include:
+**Description:** In this project, dataset from a domestic and industrial energy supplier (**AusEnergy**) was analyzed to understand how to efficiently manage supply of electricity. In other to achieve the above, some important questions were raised based on the available data, to guide my analaysis. These questions include:
 
 i). What does demand look like over time? - To show and understand how demand varies over time (day of week/month/year). 
 
@@ -36,7 +36,7 @@ The project includes the following steps: data loading; data cleaning, sorting a
 
 **Tableau Public Data Story:** https://public.tableau.com/views/Project2_DentalPharma_Corrected/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
 
-**Description:** In this project, a dashboard was created to meet business requirements by applying requirement gathering and capture to implement the expected dashoard design. The project was aimed at standardizing the monitoring of various projects within a pharmaceutical company (Dental Pharma). As such, the goal was to use data visualization to keep track of how projects (IT & Marketing) are doing, to measure current and future project performance. In addition, the dashboard will help make strategic project data visually accessible to stakeholders (each with restricted access) which includes the General Manager (see all projects), Regional Manager (see projects in their region), and Country manage (view indicators of projects in their country). The key dashboard requirements were: 
+**Description:** In this project, a dashboard was created to meet business requirements by applying requirement gathering and capture to implement the expected dashoard design. The project was aimed at standardizing the monitoring of various projects within a pharmaceutical company (**Dental Pharma**). As such, the goal was to use data visualization to keep track of how projects (IT & Marketing) are doing, to measure current and future project performance. In addition, the dashboard will help make strategic project data visually accessible to stakeholders (each with restricted access) which includes the General Manager (see all projects), Regional Manager (see projects in their region), and Country manage (view indicators of projects in their country). The key dashboard requirements were: 
 
 **1. Projects:** Show which projects are running/have run in which countries (i.e. map showing the countries that Dental Pharma operates in; table of the projects, showing the region, country, country type, project type, phase, date,     planned and actual cost, planned and actual duration).
 
@@ -64,7 +64,7 @@ deliverables are below the target).
 **Data requirements:** [Data_Requirements_Template.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11602197/Data_Requirements_Template.pdf)
 
 
-**Description:** In this project, the quality of three datasets {Trees Data (excel), Common Names Data (.json), and Environmental Data (.csv)} required by a public service agency (Camden Council) was assessed to ascertain if the datasets contain the required data and information needed by the council to strategically deliver its planned projects (i.e. Public Tree Data, Tree Walk Brochure, and Environmental Report). 
+**Description:** In this project, the quality of three datasets {Trees Data (excel), Common Names Data (.json), and Environmental Data (.csv)} required by a public service agency (**Camden Council**) was assessed to ascertain if the datasets contain the required data and information needed by the council to strategically deliver its planned projects (i.e. Public Tree Data, Tree Walk Brochure, and Environmental Report). 
 
 The aim of this project was to evalaute the datasets and determine the extent to which it is possible to use the datasets to deliver the three proposed projects. The assessment of data quality was carried out using various functions {e.g. .head(); .shape(); .column(); .dtype(); .value_counts(); .describe(); .unique(); .isnull(); .isin(), etc.} in python. 
 
@@ -81,7 +81,9 @@ The aim of this project was to evalaute the datasets and determine the extent to
 
 **Presentation:**  [Project 4_ presentation_2023.pdf](https://github.com/Sebastian-TheDataDetective/Data_Analysis_Portfolio/files/11604417/Project.4_.presentation_2023.pdf)
 
-**Description:** In this project, 
+**Description:** In this project, SQL was used to query user activity (interaction) data from an online forum (**ChatData**) to learn how their websites is being used in the real world, to understand which features are useful to the users and what additional features might be worth introducing at a later time. This was accomplished using three separate CSV files consisting of user activity data: posts, comments and users.
+
+SQL queries were executed on the available data to provide answers to the business questions raised by the Social Media Manager by creating
 
 **Skills:** SQL; Python programming; Requirement gathering and analysis; Data retrieval and analysis; Query optimization; Database management; Data exploration; Data validation; Data Privacy and Security  
 
