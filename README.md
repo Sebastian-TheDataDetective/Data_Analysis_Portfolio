@@ -59,6 +59,10 @@ deliverables are below the target).
 
 **Presentation:**
 
+**Data source list:**
+
+**Data requirements:**
+
 **Description:** In this project, the quality of three datasets {Trees Data (excel), Common Names Data (.json), and Environmental Data (.csv)} required by a public service agency (Camden Council) was assessed to ascertain if the datasets contain the required data and information needed by the council to strategically deliver its planned projects (i.e. Public Tree Data, Tree Walk Brochure, and Environmental Report). 
 
 The aim of this project was to evalaute the datasets and determine the extent to which it is possible to use the datasets to deliver the three proposed projects. The assessment of data quality was carried out using various functions {e.g. .head(); .shape(); .column(); .dtype(); .value_counts(); .describe(); .unique(); .isnull(); .isin(), etc.} in python. 
