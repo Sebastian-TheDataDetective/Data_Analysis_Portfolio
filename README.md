@@ -1,6 +1,6 @@
 # Data_Analysis_Portfolio_Projects
 # Introduction
-Hi!
+Hiya !!
 
 Welcome to my Portfolio. My name is Sebastian Lotanna Nnorom and I am excited to share my data analysis projects here!
 
