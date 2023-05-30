@@ -83,4 +83,4 @@ The aim of this project was to evalaute the datasets and determine the extent to
 
 **Skills:** SQL query; Python coding; Requirement gathering and analysis; Data exploration; Data validation and reliability checks  
 
-**Technology/Tools:** SQLite, Python, Pandas 
+**Technology/Tools:** SQLite, Python, Pandas, Numpy 
