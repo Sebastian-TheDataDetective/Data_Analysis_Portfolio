@@ -2,7 +2,7 @@
 # Introduction
 Hiya !!
 
-Welcome to my Portfolio. My name is Sebastian Nnorom and I am excited to share my data analysis projects here!
+Welcome to my Portfolio. My name is Sebastian and I am excited to share my data analysis projects here!
 
 I have a technical background in geoscience. After about a year of transitioning from geoscience to data analysis, due to my passion for working with numbers, I am currently searching for opportunities (internships and full-time jobs) to improve and apply my data skills. I have over the past year acquired the necessary skills needed to kickstart my new found interest in data analysis.
 
